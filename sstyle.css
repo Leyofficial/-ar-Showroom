@@ -575,7 +575,7 @@ button {
 }
 .footer-nav-wrap {
     margin:0 auto;
-    gap: 30px   ;
+    gap: 30px;
 }
 .footer-nav__header {
     margin-top: 30px;
@@ -602,7 +602,7 @@ button {
         text-align: center;
     }
     #rent-section {
-        padding: 80px 0;
+        padding: 81px 0;
     }
     .rent {
         background-position: center;
